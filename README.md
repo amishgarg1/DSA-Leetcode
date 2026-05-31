@@ -3,7 +3,7 @@
 My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com/)!
 
 ## 📊 Statistics!
-[LeetCode Stats](https://leetcard.jacoblin.cool/amishgarg1?theme=dark&font=Baloo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/amishgarg1?theme=dark&font=Baloo)
 - **Total Problems Solved:** 1
 - **Easy:** 0 🟢
 - **Medium:** 1 🟡
