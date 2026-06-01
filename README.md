@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 6
+- **Total Problems Solved:** 7
 - **Easy:** 2 🟢
-- **Medium:** 4 🟡
+- **Medium:** 5 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -18,6 +18,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/submissions/2018665824/) | 🟡 Medium | cpp | 2026-06-01 |
 | [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/submissions/2018646656/) | 🟡 Medium | cpp | 2026-06-01 |
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | 🟡 Medium | cpp | 2026-06-01 |
+| [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | 🟡 Medium | cpp | 2026-06-01 |
 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | 🟡 Medium | cpp | 2026-05-31 |
 
 ---
