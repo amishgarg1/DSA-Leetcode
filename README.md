@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 12
-- **Easy:** 3 🟢
+- **Total Problems Solved:** 13
+- **Easy:** 4 🟢
 - **Medium:** 8 🟡
 - **Hard:** 1 🔴
 
@@ -15,6 +15,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 |---------|-----------|----------|------|
 | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/submissions/2018708218/) | 🟢 Easy | cpp | 2026-06-01 |
 | [2144. Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/submissions/2018632333/?envType=daily-question&envId=2026-06-01) | 🟢 Easy | cpp | 2026-06-01 |
+| [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/2019676835/) | 🟢 Easy | cpp | 2026-06-02 |
 | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/submissions/2018677528/) | 🟢 Easy | cpp | 2026-06-01 |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/2018699678/) | 🟡 Medium | cpp | 2026-06-01 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/submissions/2018665824/) | 🟡 Medium | cpp | 2026-06-01 |
