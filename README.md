@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 14
-- **Easy:** 5 🟢
+- **Total Problems Solved:** 15
+- **Easy:** 6 🟢
 - **Medium:** 8 🟡
 - **Hard:** 1 🔴
 
@@ -15,6 +15,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 |---------|-----------|----------|------|
 | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/submissions/2018708218/) | 🟢 Easy | cpp | 2026-06-01 |
 | [2144. Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/submissions/2018632333/?envType=daily-question&envId=2026-06-01) | 🟢 Easy | cpp | 2026-06-01 |
+| [268. Missing Number](https://leetcode.com/problems/missing-number/submissions/2019703603/) | 🟢 Easy | cpp | 2026-06-02 |
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/2019676835/) | 🟢 Easy | cpp | 2026-06-02 |
 | [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/submissions/2019692782/) | 🟢 Easy | cpp | 2026-06-02 |
 | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/submissions/2018677528/) | 🟢 Easy | cpp | 2026-06-01 |
