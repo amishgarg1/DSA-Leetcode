@@ -1,7 +1,7 @@
 /*
  * Problem: 25. Reverse Nodes in k-Group
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/2020851390/
+ * Link: https://leetcode.com/problems/reverse-nodes-in-k-group/description/
  * Language: cpp
  * Date: 2026-06-03
  */
