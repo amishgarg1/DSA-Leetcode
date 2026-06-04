@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 25
+- **Total Problems Solved:** 26
 - **Easy:** 11 🟢
 - **Medium:** 11 🟡
-- **Hard:** 3 🔴
+- **Hard:** 4 🔴
 
 ## 📝 Problems
 
@@ -38,6 +38,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/submissions/2018690704/) | 🔴 Hard | cpp | 2026-06-01 |
 | [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/2020851390/) | 🔴 Hard | cpp | 2026-06-03 |
 | [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | 🔴 Hard | cpp | 2026-06-03 |
+| [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 🔴 Hard | cpp | 2026-06-04 |
 
 ---
 
