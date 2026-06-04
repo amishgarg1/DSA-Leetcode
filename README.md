@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 24
+- **Total Problems Solved:** 25
 - **Easy:** 11 🟢
-- **Medium:** 10 🟡
+- **Medium:** 11 🟡
 - **Hard:** 3 🔴
 
 ## 📝 Problems
@@ -31,6 +31,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | 🟡 Medium | cpp | 2026-06-01 |
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | 🟡 Medium | cpp | 2026-06-01 |
 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | 🟡 Medium | cpp | 2026-05-31 |
+| [61. Rotate List](https://leetcode.com/problems/rotate-list/submissions/2021858625/) | 🟡 Medium | cpp | 2026-06-04 |
 | [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/submissions/2018719095/) | 🟡 Medium | cpp | 2026-06-01 |
 | [877. Stone Game](https://leetcode.com/problems/stone-game/submissions/2018713100/) | 🟡 Medium | cpp | 2026-06-01 |
 | [Unknown Problem](https://leetcode.com/problems/add-two-numbers/submissions/2021807017/) | 🟡 Medium | cpp | 2026-06-04 |
