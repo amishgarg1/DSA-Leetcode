@@ -1,7 +1,7 @@
 /*
  * Problem: 2. Add Two Numbers
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/add-two-numbers/submissions/2021810671/
+ * Link: https://leetcode.com/problems/add-two-numbers/submissions/2021813926/
  * Language: cpp
  * Date: 2026-06-04
  */
