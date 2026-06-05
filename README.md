@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 27
+- **Total Problems Solved:** 28
 - **Easy:** 12 🟢
-- **Medium:** 11 🟡
+- **Medium:** 12 🟡
 - **Hard:** 4 🔴
 
 ## 📝 Problems
@@ -26,6 +26,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/submissions/2019692782/) | 🟢 Easy | cpp | 2026-06-02 |
 | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/submissions/2018677528/) | 🟢 Easy | cpp | 2026-06-01 |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/2018699678/) | 🟡 Medium | cpp | 2026-06-01 |
+| [155. Min Stack](https://leetcode.com/problems/min-stack/) | 🟡 Medium | cpp | 2026-06-05 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/submissions/2018665824/) | 🟡 Medium | cpp | 2026-06-01 |
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/submissions/2021813926/) | 🟡 Medium | cpp | 2026-06-04 |
 | [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/submissions/2018646656/) | 🟡 Medium | cpp | 2026-06-01 |
