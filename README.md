@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 26
-- **Easy:** 11 🟢
+- **Total Problems Solved:** 27
+- **Easy:** 12 🟢
 - **Medium:** 11 🟡
 - **Hard:** 4 🔴
 
@@ -13,6 +13,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
+| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | 🟢 Easy | cpp | 2026-06-05 |
 | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/submissions/2018708218/) | 🟢 Easy | cpp | 2026-06-01 |
 | [2144. Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/submissions/2018632333/?envType=daily-question&envId=2026-06-01) | 🟢 Easy | cpp | 2026-06-01 |
 | [268. Missing Number](https://leetcode.com/problems/missing-number/submissions/2019703603/) | 🟢 Easy | cpp | 2026-06-02 |
