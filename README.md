@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 29
+- **Total Problems Solved:** 30
 - **Easy:** 12 🟢
-- **Medium:** 13 🟡
+- **Medium:** 14 🟡
 - **Hard:** 4 🔴
 
 ## 📝 Problems
@@ -34,6 +34,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | 🟡 Medium | cpp | 2026-06-01 |
 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | 🟡 Medium | cpp | 2026-05-31 |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/submissions/2021858625/) | 🟡 Medium | cpp | 2026-06-04 |
+| [71. Simplify Path](https://leetcode.com/problems/simplify-path/submissions/2024363859/) | 🟡 Medium | cpp | 2026-06-06 |
 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/submissions/2022945171/) | 🟡 Medium | cpp | 2026-06-05 |
 | [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/submissions/2018719095/) | 🟡 Medium | cpp | 2026-06-01 |
 | [877. Stone Game](https://leetcode.com/problems/stone-game/submissions/2018713100/) | 🟡 Medium | cpp | 2026-06-01 |
