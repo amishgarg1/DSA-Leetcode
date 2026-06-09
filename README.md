@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 30
-- **Easy:** 12 🟢
+- **Total Problems Solved:** 31
+- **Easy:** 13 🟢
 - **Medium:** 14 🟡
 - **Hard:** 4 🔴
 
@@ -25,6 +25,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/submissions/2019794672/) | 🟢 Easy | cpp | 2026-06-02 |
 | [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/submissions/2019692782/) | 🟢 Easy | cpp | 2026-06-02 |
 | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/submissions/2018677528/) | 🟢 Easy | cpp | 2026-06-01 |
+| [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/submissions/2026988767/) | 🟢 Easy | cpp | 2026-06-09 |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/2018699678/) | 🟡 Medium | cpp | 2026-06-01 |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | 🟡 Medium | cpp | 2026-06-05 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/submissions/2018665824/) | 🟡 Medium | cpp | 2026-06-01 |
