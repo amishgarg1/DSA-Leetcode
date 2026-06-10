@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 33
+- **Total Problems Solved:** 34
 - **Easy:** 13 🟢
-- **Medium:** 15 🟡
+- **Medium:** 16 🟡
 - **Hard:** 5 🔴
 
 ## 📝 Problems
@@ -40,6 +40,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/submissions/2022945171/) | 🟡 Medium | cpp | 2026-06-05 |
 | [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/submissions/2018719095/) | 🟡 Medium | cpp | 2026-06-01 |
 | [877. Stone Game](https://leetcode.com/problems/stone-game/submissions/2018713100/) | 🟡 Medium | cpp | 2026-06-01 |
+| [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/submissions/2028207525/) | 🟡 Medium | cpp | 2026-06-10 |
 | [Unknown Problem](https://leetcode.com/problems/add-two-numbers/submissions/2021807017/) | 🟡 Medium | cpp | 2026-06-04 |
 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/submissions/2018690704/) | 🔴 Hard | cpp | 2026-06-01 |
 | [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/2020851390/) | 🔴 Hard | cpp | 2026-06-03 |
