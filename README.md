@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 31
+- **Total Problems Solved:** 32
 - **Easy:** 13 🟢
 - **Medium:** 14 🟡
-- **Hard:** 4 🔴
+- **Hard:** 5 🔴
 
 ## 📝 Problems
 
@@ -44,6 +44,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/2020851390/) | 🔴 Hard | cpp | 2026-06-03 |
 | [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | 🔴 Hard | cpp | 2026-06-03 |
 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 🔴 Hard | cpp | 2026-06-04 |
+| [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | cpp | 2026-06-10 |
 
 ---
 
