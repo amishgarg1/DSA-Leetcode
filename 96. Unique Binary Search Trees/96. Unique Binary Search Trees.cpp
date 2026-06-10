@@ -1,7 +1,7 @@
 /*
  * Problem: 96. Unique Binary Search Trees
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/unique-binary-search-trees/submissions/2028207525/
+ * Link: https://leetcode.com/problems/unique-binary-search-trees/
  * Language: cpp
  * Date: 2026-06-10
  */
