@@ -1,7 +1,7 @@
 /*
  * Problem: 42. Trapping Rain Water
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/trapping-rain-water/
+ * Link: https://leetcode.com/problems/trapping-rain-water/submissions/2028117269/
  * Language: cpp
  * Date: 2026-06-10
  */
@@ -12,7 +12,7 @@ public:
         int n=height.size();
         vector<int> left(n);
         vector<int> right(n);
-        int water;
+        int water=0;
        for (int i=1; i<n; i++){
         left[i]=max (height[i-1],left[i-1]);
        }
