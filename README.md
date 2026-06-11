@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 37
+- **Total Problems Solved:** 38
 - **Easy:** 14 🟢
-- **Medium:** 18 🟡
+- **Medium:** 19 🟡
 - **Hard:** 5 🔴
 
 ## 📝 Problems
@@ -29,6 +29,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/submissions/2026988767/) | 🟢 Easy | cpp | 2026-06-09 |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/2028147519/) | 🟡 Medium | cpp | 2026-06-10 |
 | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/submissions/2029224395/) | 🟡 Medium | cpp | 2026-06-11 |
+| [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/submissions/2029241892/) | 🟡 Medium | cpp | 2026-06-11 |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/2018699678/) | 🟡 Medium | cpp | 2026-06-01 |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | 🟡 Medium | cpp | 2026-06-05 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/submissions/2018665824/) | 🟡 Medium | cpp | 2026-06-01 |
