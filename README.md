@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 43
-- **Easy:** 14 🟢
+- **Total Problems Solved:** 44
+- **Easy:** 15 🟢
 - **Medium:** 23 🟡
 - **Hard:** 6 🔴
 
@@ -24,6 +24,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3633. Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/submissions/2020834569/?envType=daily-question&envId=2026-06-03) | 🟢 Easy | cpp | 2026-06-03 |
 | [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/submissions/2020793370/) | 🟢 Easy | cpp | 2026-06-03 |
 | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/submissions/2019794672/) | 🟢 Easy | cpp | 2026-06-02 |
+| [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | cpp | 2026-06-13 |
 | [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/submissions/2019692782/) | 🟢 Easy | cpp | 2026-06-02 |
 | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/submissions/2018677528/) | 🟢 Easy | cpp | 2026-06-01 |
 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/submissions/2026988767/) | 🟢 Easy | cpp | 2026-06-09 |
