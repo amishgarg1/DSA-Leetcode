@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 41
+- **Total Problems Solved:** 42
 - **Easy:** 14 🟢
-- **Medium:** 22 🟡
+- **Medium:** 23 🟡
 - **Hard:** 5 🔴
 
 ## 📝 Problems
@@ -40,6 +40,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/submissions/2018646656/) | 🟡 Medium | cpp | 2026-06-01 |
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | 🟡 Medium | cpp | 2026-06-01 |
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | 🟡 Medium | cpp | 2026-06-01 |
+| [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/submissions/2031338468/) | 🟡 Medium | cpp | 2026-06-13 |
 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | 🟡 Medium | cpp | 2026-05-31 |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/submissions/2021858625/) | 🟡 Medium | cpp | 2026-06-04 |
 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/submissions/2024363859/) | 🟡 Medium | cpp | 2026-06-06 |
