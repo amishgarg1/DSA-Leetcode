@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 47
+- **Total Problems Solved:** 48
 - **Easy:** 15 🟢
-- **Medium:** 25 🟡
+- **Medium:** 26 🟡
 - **Hard:** 7 🔴
 
 ## 📝 Problems
@@ -41,6 +41,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/submissions/2018665824/) | 🟡 Medium | cpp | 2026-06-01 |
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/submissions/2021813926/) | 🟡 Medium | cpp | 2026-06-04 |
 | [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/submissions/2018646656/) | 🟡 Medium | cpp | 2026-06-01 |
+| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2042478146/) | 🟡 Medium | cpp | 2026-06-22 |
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | 🟡 Medium | cpp | 2026-06-01 |
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | 🟡 Medium | cpp | 2026-06-01 |
 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/submissions/2031338468/) | 🟡 Medium | cpp | 2026-06-13 |
