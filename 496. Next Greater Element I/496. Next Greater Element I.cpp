@@ -1,32 +1,35 @@
 /*
  * Problem: 496. Next Greater Element I
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/next-greater-element-i/
+ * Link: https://leetcode.com/problems/next-greater-element-i/submissions/2043659980/?envType=problem-list-v2&envId=dmoksums
  * Language: cpp
- * Date: 2026-06-13
+ * Date: 2026-06-23
  */
 
 class Solution {
 public:
-    vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) 
-    {
+    vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
+        unordered_map<int, int> mp;
         stack<int> st;
-        int n = nums1.size();
-        vector<int> ans(n,-1);
-        for(int i = n-1;i>=0;i--)
-        {
-            while(!st.empty() && st.top()<=nums1[i])
-            {
+
+        for (int num : nums2) {
+            while (!st.empty() && st.top() < num) {
+                mp[st.top()] = num;
                 st.pop();
             }
-            if(st.empty())
-            {
-                ans[i] = -1;
-            }
-            else
-                ans[i] = st.top();
-            st.push(nums1[i]);
+            st.push(num);
         }
+
+        while (!st.empty()) {
+            mp[st.top()] = -1;
+            st.pop();
+        }
+
+        vector<int> ans;
+        for (int num : nums1) {
+            ans.push_back(mp[num]);
+        }
+
         return ans;
     }
 };
