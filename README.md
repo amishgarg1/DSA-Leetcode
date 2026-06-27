@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 48
-- **Easy:** 15 🟢
+- **Total Problems Solved:** 49
+- **Easy:** 16 🟢
 - **Medium:** 26 🟡
 - **Hard:** 7 🔴
 
@@ -28,6 +28,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/submissions/2019692782/) | 🟢 Easy | cpp | 2026-06-02 |
 | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/submissions/2018677528/) | 🟢 Easy | cpp | 2026-06-01 |
 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/submissions/2026988767/) | 🟢 Easy | cpp | 2026-06-09 |
+| [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/submissions/2048126250/) | 🟢 Easy | cpp | 2026-06-27 |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/2028147519/) | 🟡 Medium | cpp | 2026-06-10 |
 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/2030339980/) | 🟡 Medium | cpp | 2026-06-12 |
 | [1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/submissions/2030296725/) | 🟡 Medium | cpp | 2026-06-12 |
