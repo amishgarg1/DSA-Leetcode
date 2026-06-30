@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 50
+- **Total Problems Solved:** 51
 - **Easy:** 16 🟢
-- **Medium:** 27 🟡
+- **Medium:** 28 🟡
 - **Hard:** 7 🔴
 
 ## 📝 Problems
@@ -37,6 +37,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/submissions/2029241892/) | 🟡 Medium | cpp | 2026-06-11 |
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/2037758071/) | 🟡 Medium | cpp | 2026-06-18 |
 | [132 Pattern](https://leetcode.com/problems/132-pattern/submissions/2031315962/?roomId=FIiSYp) | 🟡 Medium | cpp | 2026-06-13 |
+| [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/submissions/2051413695/?envType=daily-question&envId=2026-06-30) | 🟡 Medium | cpp | 2026-06-30 |
 | [148. Sort List](https://leetcode.com/problems/sort-list/submissions/2034115973/?envType=problem-list-v2&envId=dm8x0s0s) | 🟡 Medium | cpp | 2026-06-15 |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/2018699678/) | 🟡 Medium | cpp | 2026-06-01 |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | 🟡 Medium | cpp | 2026-06-05 |
