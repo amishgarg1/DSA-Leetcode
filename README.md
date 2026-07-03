@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 53
-- **Easy:** 18 🟢
+- **Total Problems Solved:** 54
+- **Easy:** 19 🟢
 - **Medium:** 28 🟡
 - **Hard:** 7 🔴
 
@@ -28,6 +28,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | cpp | 2026-06-13 |
 | [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/submissions/2019692782/) | 🟢 Easy | cpp | 2026-06-02 |
 | [561. Array Partition](https://leetcode.com/problems/array-partition/submissions/2052545291/) | 🟢 Easy | cpp | 2026-07-01 |
+| [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/submissions/2054935701/) | 🟢 Easy | cpp | 2026-07-03 |
 | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/submissions/2018677528/) | 🟢 Easy | cpp | 2026-06-01 |
 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/submissions/2026988767/) | 🟢 Easy | cpp | 2026-06-09 |
 | [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/submissions/2048126250/) | 🟢 Easy | cpp | 2026-06-27 |
