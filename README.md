@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 55
-- **Easy:** 20 🟢
+- **Total Problems Solved:** 56
+- **Easy:** 21 🟢
 - **Medium:** 28 🟡
 - **Hard:** 7 🔴
 
@@ -24,6 +24,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/submissions/2019742073/) | 🟢 Easy | cpp | 2026-06-02 |
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/2019676835/) | 🟢 Easy | cpp | 2026-06-02 |
 | [3633. Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/submissions/2020834569/?envType=daily-question&envId=2026-06-03) | 🟢 Easy | cpp | 2026-06-03 |
+| [3754. Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/submissions/2059460678/?envType=daily-question&envId=2026-07-07) | 🟢 Easy | cpp | 2026-07-07 |
 | [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/submissions/2020793370/) | 🟢 Easy | cpp | 2026-06-03 |
 | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/submissions/2019794672/) | 🟢 Easy | cpp | 2026-06-02 |
 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | cpp | 2026-06-13 |
